@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computer Vision | Mrinaal Dogra</title>
+    <link>https://mrinaald.github.io/tag/computer-vision/</link>
+      <atom:link href="https://mrinaald.github.io/tag/computer-vision/index.xml" rel="self" type="application/rss+xml" />
+    <description>Computer Vision</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 30 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mrinaald.github.io/media/icon_hub96e8e9402b9c6d6f1cb54dd30395281_15734_512x512_fill_lanczos_center_3.png</url>
+      <title>Computer Vision</title>
+      <link>https://mrinaald.github.io/tag/computer-vision/</link>
+    </image>
+    
+    <item>
+      <title>Real-time Sentiment Analysis of Video Feed</title>
+      <link>https://mrinaald.github.io/project/ml_sentiment/</link>
+      <pubDate>Thu, 30 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://mrinaald.github.io/project/ml_sentiment/</guid>
+      <description>&lt;!-- &lt;h2 &gt;Location&lt;/h2&gt; --&gt;
+&lt;!-- This project was done as a industrial software internship at Hike Pvt. Ltd., New Delhi, during May ‘17 - Jul ‘17, the summer of my second year. --&gt;
+&lt;!-- This project was taken as part of the Robotics club at IIT Kanpur during my first two years at IIT Kanpur. --&gt;
+&lt;h2 &gt;Details&lt;/h2&gt;
+&lt;!-- This project was started as part of the course CS657: Information Retrieval, in the Spring ‘18 term at IIT Kanpur under Prof. Arnab Bhattacharya, Department of Computer Science and Engineering, IIT Kanpur. It was later continued beyond the course into my second undergraduate research project. --&gt;
+This project was done as part of the course CS771A: Introduction to Machine Learning, in the Fall ‘17 term at IIT Kanpur under Prof. Purushottam Kar, Department of Computer Science and Engineering, IIT Kanpur.
+&lt;!-- This project was done as an undergraduate project, in the Fall ‘17 term at IIT Kanpur under Prof. Purushottam Kar, Department of Computer Science and Engineering, IIT Kanpur. --&gt;
+ &lt;!-- &lt;ul&gt; --&gt;
+  &lt;!-- &lt;li&gt;Implemented various algorithms such as Line Following, Object Detection and Object Tracking using OpenCV C++.&lt;/li&gt; --&gt;
+&lt;!-- &lt;/ul&gt; --&gt;
+&lt;h2 &gt;Abstract&lt;/h2&gt;
+The project aimed at developing a user-end application to get time-mapped viewer sentiment while watching a video. The input will be the real time viewer’s webcam feed while watching the video and the output will be an emotion specified at regular time intervals throughout the video. The following set of six emotions were considered in the application: {Neutral, Happy, Sad, Angry, Surprised, Fearful}
+</description>
+    </item>
+    
+    <item>
+      <title>Humanoid Robotics Project</title>
+      <link>https://mrinaald.github.io/project/humanoid/</link>
+      <pubDate>Sun, 30 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://mrinaald.github.io/project/humanoid/</guid>
+      <description>&lt;h2 &gt;Location&lt;/h2&gt;
+&lt;!-- This project was done as a industrial software internship at Hike Pvt. Ltd., New Delhi, during May ‘17 - Jul ‘17, the summer of my second year. --&gt;
+This project was taken as part of the Robotics club at IIT Kanpur during my first two years at IIT Kanpur.
+&lt;h2 &gt;Details&lt;/h2&gt;
+&lt;!-- This project was started as part of the course CS657: Information Retrieval, in the Spring ‘18 term at IIT Kanpur under Prof. Arnab Bhattacharya, Department of Computer Science and Engineering, IIT Kanpur. It was later continued beyond the course into my second undergraduate research project. --&gt;
+&lt;!-- This project was done as part of the course CS771: Machine Learning Techniques, in the Fall ‘17 term at IIT Kanpur under Prof. Purushottam Kar, Department of Computer Science and Engineering, IIT Kanpur. --&gt;
+ &lt;ul&gt;
+  &lt;li&gt;Implemented various algorithms such as Line Following, Object Detection and Object Tracking using OpenCV C++.&lt;/li&gt;
+  &lt;li&gt;Implemented the Speech Recognition, Chat-bot and the Integration System modules for the project HURO in the SnT Summer Camp 2016.&lt;/li&gt;
+  &lt;li&gt;Actively worked with team on Computer Vision problem statements required for participation in the competition HuroCup Fira, a robotic game
+and robotics benchmark problem for humanoid robots.&lt;/li&gt;
+  &lt;li&gt;Implemented Histogram Backprojection algorithm using OpenCV for improving object detection in a camera feed.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

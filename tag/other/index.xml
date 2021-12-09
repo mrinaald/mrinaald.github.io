@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Other | Mrinaal Dogra</title>
+    <link>https://mrinaald.github.io/tag/other/</link>
+      <atom:link href="https://mrinaald.github.io/tag/other/index.xml" rel="self" type="application/rss+xml" />
+    <description>Other</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 30 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mrinaald.github.io/media/icon_hub96e8e9402b9c6d6f1cb54dd30395281_15734_512x512_fill_lanczos_center_3.png</url>
+      <title>Other</title>
+      <link>https://mrinaald.github.io/tag/other/</link>
+    </image>
+    
+    <item>
+      <title>Ada to MIPS Compiler</title>
+      <link>https://mrinaald.github.io/project/ada_to_mips/</link>
+      <pubDate>Mon, 30 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://mrinaald.github.io/project/ada_to_mips/</guid>
+      <description>&lt;!-- &lt;h2 &gt;Location&lt;/h2&gt; --&gt;
+&lt;!-- This project was done as a industrial software internship at Hike Pvt. Ltd., New Delhi, during May ‘17 - Jul ‘17, the summer of my second year. --&gt;
+&lt;!-- This project was taken as part of the Robotics club at IIT Kanpur during my first two years at IIT Kanpur. --&gt;
+&lt;h2 &gt;Details&lt;/h2&gt;
+&lt;!-- This project was started as part of the course CS657: Information Retrieval, in the Spring ‘18 term at IIT Kanpur under Prof. Arnab Bhattacharya, Department of Computer Science and Engineering, IIT Kanpur. It was later continued beyond the course into my second undergraduate research project. --&gt;
+This project was done as part of the course CS335A: Compiler Design, in the Spring ‘18 term at IIT Kanpur under Prof. Subhajit Roy, Department of Computer Science and Engineering, IIT Kanpur.
+&lt;!-- This project was done as an undergraduate project, in the Spring ‘18 term at IIT Kanpur under Prof. Indranil Saha, Department of Computer Science and Engineering, IIT Kanpur. --&gt;
+&lt;!-- &lt;ul&gt; --&gt;
+  &lt;!-- &lt;li&gt;Implemented various algorithms such as Line Following, Object Detection and Object Tracking using OpenCV C++.&lt;/li&gt; --&gt;
+&lt;!-- &lt;/ul&gt; --&gt;
+&lt;h2 &gt;Abstract&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Implemented an Ada to MIPS compiler using C++ as the source language of the compiler.&lt;/li&gt;
+  &lt;li&gt;Implemented language features include Basic Arithematic operations, Range Operator, Constant Variables, Fixed size Arrays with upto two dimension support, If-Else and If-ElseIf-Else conditionals, Switch cases, Simple for, while, and do-while loops, Procedures(Functions) and Recursions, Packages(Classes) supporting any number of data members as well as objects of other packages, and Package level Methods.&lt;/li&gt;
+  &lt;li&gt;Basic Integer and Character data types were supported for all implemented features.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

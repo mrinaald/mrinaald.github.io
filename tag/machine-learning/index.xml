@@ -5,7 +5,7 @@
     <link>https://mrinaald.github.io/tag/machine-learning/</link>
       <atom:link href="https://mrinaald.github.io/tag/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Machine Learning</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 30 Nov 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mrinaald.github.io/media/icon_hub96e8e9402b9c6d6f1cb54dd30395281_15734_512x512_fill_lanczos_center_3.png</url>
       <title>Machine Learning</title>
@@ -13,9 +13,54 @@
     </image>
     
     <item>
+      <title>One-Shot Learning</title>
+      <link>https://mrinaald.github.io/project/one_shot/</link>
+      <pubDate>Fri, 30 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://mrinaald.github.io/project/one_shot/</guid>
+      <description>&lt;!-- &lt;h2 &gt;Location&lt;/h2&gt; --&gt;
+&lt;!-- This project was done as a industrial software internship at Hike Pvt. Ltd., New Delhi, during May ‘17 - Jul ‘17, the summer of my second year. --&gt;
+&lt;!-- This project was taken as part of the Robotics club at IIT Kanpur during my first two years at IIT Kanpur. --&gt;
+&lt;h2 &gt;Details&lt;/h2&gt;
+&lt;!-- This project was started as part of the course CS657: Information Retrieval, in the Spring ‘18 term at IIT Kanpur under Prof. Arnab Bhattacharya, Department of Computer Science and Engineering, IIT Kanpur. It was later continued beyond the course into my second undergraduate research project. --&gt;
+This project was done as part of the course CS685A: Data Mining, in the Fall ‘18 term at IIT Kanpur under Prof. Arnab Bhattacharya, Department of Computer Science and Engineering, IIT Kanpur.
+&lt;!-- This project was done as an undergraduate project, in the Spring ‘18 term at IIT Kanpur under Prof. Indranil Saha, Department of Computer Science and Engineering, IIT Kanpur. --&gt;
+ &lt;!-- &lt;ul&gt; --&gt;
+  &lt;!-- &lt;li&gt;Implemented various algorithms such as Line Following, Object Detection and Object Tracking using OpenCV C++.&lt;/li&gt; --&gt;
+&lt;!-- &lt;/ul&gt; --&gt;
+&lt;h2 &gt;Abstract&lt;/h2&gt;
+The process of learning good features for machine learning applications can be very computationally expensive and may prove difficult in cases where little data is available. A prototypical example of this is the one-shot learning setting, in which we must correctly make predictions given only a single example of each new class. In this paper, we firstly explore Siamese Networks, a unique twin-network setting which is capable of checking how similar any two inputs are. The observed shortcomings of the model inspire us to explore a more robust model, Matching Networks, a neural network which uses recent advances in attention and memory that enable rapid learning. We then extend the models to the MNIST and ImageNet datasets in addition to the standard Omniglot dataset they are trained on to check their robustness and achieve promising results</description>
+    </item>
+    
+    <item>
+      <title>Detecting Semantically Similar Questions on Quora Dataset</title>
+      <link>https://mrinaald.github.io/project/nlp_similar_ques/</link>
+      <pubDate>Mon, 30 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://mrinaald.github.io/project/nlp_similar_ques/</guid>
+      <description>&lt;!-- &lt;h2 &gt;Location&lt;/h2&gt; --&gt;
+&lt;!-- This project was done as a industrial software internship at Hike Pvt. Ltd., New Delhi, during May ‘17 - Jul ‘17, the summer of my second year. --&gt;
+&lt;!-- This project was taken as part of the Robotics club at IIT Kanpur during my first two years at IIT Kanpur. --&gt;
+&lt;h2 &gt;Details&lt;/h2&gt;
+&lt;!-- This project was started as part of the course CS657: Information Retrieval, in the Spring ‘18 term at IIT Kanpur under Prof. Arnab Bhattacharya, Department of Computer Science and Engineering, IIT Kanpur. It was later continued beyond the course into my second undergraduate research project. --&gt;
+This project was done as part of the course CS671A: Introduction to Natural Language Processing, in the Spring ‘18 term at IIT Kanpur under Prof. Harish Karnick, Department of Computer Science and Engineering, IIT Kanpur.
+&lt;!-- This project was done as an undergraduate project, in the Spring ‘18 term at IIT Kanpur under Prof. Indranil Saha, Department of Computer Science and Engineering, IIT Kanpur. --&gt;
+ &lt;!-- &lt;ul&gt; --&gt;
+  &lt;!-- &lt;li&gt;Implemented various algorithms such as Line Following, Object Detection and Object Tracking using OpenCV C++.&lt;/li&gt; --&gt;
+&lt;!-- &lt;/ul&gt; --&gt;
+&lt;h2 &gt;Abstract&lt;/h2&gt;
+Websites like quora provide a platform for Question and Answering across various subjects and fields. However, the websites also contain loads of similar questions which have different sets of replies although they seek same answer. We aim to develop an application which can detect whether two questions on quora are semantically similar. More formally we want a model which when given two questions q1 and q2 , gives
+&lt;ul&gt;
+  &lt;li&gt;0 if question can’t be answered by the same answer&lt;/li&gt;
+  &lt;li&gt;1 if question can be answered by the same answer&lt;/li&gt;
+&lt;/ul&gt;
+depending on whether the questions are similar in terms of meaning or not. The criteria for two questions
+being semantically similar is that they seek same answer
+</description>
+    </item>
+    
+    <item>
       <title>Neural Network Based Modelling and Control of Quadrotor</title>
       <link>https://mrinaald.github.io/project/nn_quadrotor/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 30 Apr 2018 00:00:00 +0000</pubDate>
       <guid>https://mrinaald.github.io/project/nn_quadrotor/</guid>
       <description>&lt;!-- &lt;h2 &gt;Location&lt;/h2&gt; --&gt;
 &lt;!-- This project was done as a industrial software internship at Hike Pvt. Ltd., New Delhi, during May ‘17 - Jul ‘17, the summer of my second year. --&gt;
@@ -30,7 +75,28 @@ This project was done as an undergraduate project, in the Spring ‘18 term at I
 &lt;h2 &gt;Abstract&lt;/h2&gt;
 The physics-based models of the quadrotors are being used for a long time to synthesize their controllers. All such controllers work with the linearized model of quadrotor, thus becoming prone to errors in adverse situations because, in reality, the quadrotor models are non-linear.
 &lt;br&gt;&lt;br&gt;
-Recent advancements in deep learning techniques have shown that these tech- niques are very efficient in learning non-linear functions. This motivates us to use them for learning the model of a quadrotor. This project aims at using neural network techniques to learn the model of the quadrotor and to use them for syn- thesizing a controller for it.</description>
+Recent advancements in deep learning techniques have shown that these tech- niques are very efficient in learning non-linear functions. This motivates us to use them for learning the model of a quadrotor. This project aims at using neural network techniques to learn the model of the quadrotor and to use them for syn- thesizing a controller for it.
+</description>
+    </item>
+    
+    <item>
+      <title>Real-time Sentiment Analysis of Video Feed</title>
+      <link>https://mrinaald.github.io/project/ml_sentiment/</link>
+      <pubDate>Thu, 30 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://mrinaald.github.io/project/ml_sentiment/</guid>
+      <description>&lt;!-- &lt;h2 &gt;Location&lt;/h2&gt; --&gt;
+&lt;!-- This project was done as a industrial software internship at Hike Pvt. Ltd., New Delhi, during May ‘17 - Jul ‘17, the summer of my second year. --&gt;
+&lt;!-- This project was taken as part of the Robotics club at IIT Kanpur during my first two years at IIT Kanpur. --&gt;
+&lt;h2 &gt;Details&lt;/h2&gt;
+&lt;!-- This project was started as part of the course CS657: Information Retrieval, in the Spring ‘18 term at IIT Kanpur under Prof. Arnab Bhattacharya, Department of Computer Science and Engineering, IIT Kanpur. It was later continued beyond the course into my second undergraduate research project. --&gt;
+This project was done as part of the course CS771A: Introduction to Machine Learning, in the Fall ‘17 term at IIT Kanpur under Prof. Purushottam Kar, Department of Computer Science and Engineering, IIT Kanpur.
+&lt;!-- This project was done as an undergraduate project, in the Fall ‘17 term at IIT Kanpur under Prof. Purushottam Kar, Department of Computer Science and Engineering, IIT Kanpur. --&gt;
+ &lt;!-- &lt;ul&gt; --&gt;
+  &lt;!-- &lt;li&gt;Implemented various algorithms such as Line Following, Object Detection and Object Tracking using OpenCV C++.&lt;/li&gt; --&gt;
+&lt;!-- &lt;/ul&gt; --&gt;
+&lt;h2 &gt;Abstract&lt;/h2&gt;
+The project aimed at developing a user-end application to get time-mapped viewer sentiment while watching a video. The input will be the real time viewer’s webcam feed while watching the video and the output will be an emotion specified at regular time intervals throughout the video. The following set of six emotions were considered in the application: {Neutral, Happy, Sad, Angry, Surprised, Fearful}
+</description>
     </item>
     
   </channel>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Parallel Computing | Mrinaal Dogra</title>
+    <link>https://mrinaald.github.io/tag/parallel-computing/</link>
+      <atom:link href="https://mrinaald.github.io/tag/parallel-computing/index.xml" rel="self" type="application/rss+xml" />
+    <description>Parallel Computing</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 30 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mrinaald.github.io/media/icon_hub96e8e9402b9c6d6f1cb54dd30395281_15734_512x512_fill_lanczos_center_3.png</url>
+      <title>Parallel Computing</title>
+      <link>https://mrinaald.github.io/tag/parallel-computing/</link>
+    </image>
+    
+    <item>
+      <title>N-Body Simulation in CUDA</title>
+      <link>https://mrinaald.github.io/project/n_body_sim/</link>
+      <pubDate>Sat, 30 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://mrinaald.github.io/project/n_body_sim/</guid>
+      <description>&lt;h2 &gt;Location&lt;/h2&gt;
+&lt;!-- This project was done as a industrial software internship at Hike Pvt. Ltd., New Delhi, during May ‘17 - Jul ‘17, the summer of my second year. --&gt;
+This project was taken as part of the Association of Computer Activities (ACA) group at IIT Kanpur during my second semester at IIT Kanpur.
+&lt;h2 &gt;Details&lt;/h2&gt;
+&lt;!-- This project was started as part of the course CS657: Information Retrieval, in the Spring ‘18 term at IIT Kanpur under Prof. Arnab Bhattacharya, Department of Computer Science and Engineering, IIT Kanpur. It was later continued beyond the course into my second undergraduate research project. --&gt;
+&lt;!-- This project was done as part of the course CS771: Machine Learning Techniques, in the Fall ‘17 term at IIT Kanpur under Prof. Purushottam Kar, Department of Computer Science and Engineering, IIT Kanpur. --&gt;
+&lt;!-- This project was done as an undergraduate project, in the Spring ‘18 term at IIT Kanpur under Prof. Indranil Saha, Department of Computer Science and Engineering, IIT Kanpur. --&gt;
+&lt;ul&gt;
+  &lt;li&gt;A simulation of dynamical system of a large number of particles, moving under the influence of gravity.&lt;/li&gt;
+  &lt;li&gt;Used the CUDA API along with C++ for parallel implementation of the simulation on a Nvidia GPU.&lt;/li&gt;
+  &lt;li&gt;Implemented the visual realization of the simulation using the OpenCV library in C++.&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

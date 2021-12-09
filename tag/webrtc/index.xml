@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WebRTC | Mrinaal Dogra</title>
+    <link>https://mrinaald.github.io/tag/webrtc/</link>
+      <atom:link href="https://mrinaald.github.io/tag/webrtc/index.xml" rel="self" type="application/rss+xml" />
+    <description>WebRTC</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 30 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mrinaald.github.io/media/icon_hub96e8e9402b9c6d6f1cb54dd30395281_15734_512x512_fill_lanczos_center_3.png</url>
+      <title>WebRTC</title>
+      <link>https://mrinaald.github.io/tag/webrtc/</link>
+    </image>
+    
+    <item>
+      <title>Multi-user P2P Video Conferencing Web Application</title>
+      <link>https://mrinaald.github.io/project/p2p_videoconf/</link>
+      <pubDate>Fri, 30 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://mrinaald.github.io/project/p2p_videoconf/</guid>
+      <description>&lt;!-- &lt;h2&gt;Location&lt;/h2&gt; --&gt;
+&lt;!-- This project was done as a industrial software internship at Hike Pvt. Ltd., New Delhi, during May ‘17 - Jul ‘17, the summer of my second year. --&gt;
+&lt;!-- This project was taken as part of the Robotics club at IIT Kanpur during my first two years at IIT Kanpur. --&gt;
+&lt;h2&gt;Details&lt;/h2&gt;
+&lt;!-- This project was started as part of the course CS657: Information Retrieval, in the Spring ‘18 term at IIT Kanpur under Prof. Arnab Bhattacharya, Department of Computer Science and Engineering, IIT Kanpur. It was later continued beyond the course into my second undergraduate research project. --&gt;
+This project was done as part of the course CS425A: Computer Networks, in the Fall ‘18 term at IIT Kanpur under Prof. Dheeraj Sanghi, Department of Computer Science and Engineering, IIT Kanpur.
+&lt;!-- This project was done as an undergraduate project, in the Spring ‘18 term at IIT Kanpur under Prof. Indranil Saha, Department of Computer Science and Engineering, IIT Kanpur. --&gt;
+ &lt;!-- &lt;ul&gt; --&gt;
+  &lt;!-- &lt;li&gt;Implemented various algorithms such as Line Following, Object Detection and Object Tracking using OpenCV C++.&lt;/li&gt; --&gt;
+&lt;!-- &lt;/ul&gt; --&gt;
+&lt;h2&gt;Objective&lt;/h2&gt;
+The aim of the project is to develop a video conferencing web application. This application should be capable of handling multi-stream video feeds for different users within the network.
+&lt;h2&gt;Features&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt; &lt;b&gt;Peer-to-Peer Connection&lt;/b&gt;: We use peer-to-peer connection rather than server based relaying of video streams. The host server only sets up the connection between two or more clients. After the connection is setup, exchange of data among the peers does not involve the server.
+  &lt;li&gt; &lt;b&gt;Platform Independent&lt;/b&gt;: The application doesn’t require the clients to install any software on their personal computer. They just need to login to the hosted website and the server handles setting up the connection and sharing communication protocols.
+  &lt;li&gt; &lt;b&gt;Multiple Chatrooms&lt;/b&gt;: Every conference will be allotted a unique chat room id with which all the users can join the associated chatroom. Since there can be several conferences that might be hosted simultaneously in different rooms, the application allows initiating multiple chatrooms to run independent of the others.
+&lt;/ol&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

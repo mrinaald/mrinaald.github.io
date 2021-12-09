@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NLP | Mrinaal Dogra</title>
+    <link>https://mrinaald.github.io/tag/nlp/</link>
+      <atom:link href="https://mrinaald.github.io/tag/nlp/index.xml" rel="self" type="application/rss+xml" />
+    <description>NLP</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 30 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mrinaald.github.io/media/icon_hub96e8e9402b9c6d6f1cb54dd30395281_15734_512x512_fill_lanczos_center_3.png</url>
+      <title>NLP</title>
+      <link>https://mrinaald.github.io/tag/nlp/</link>
+    </image>
+    
+    <item>
+      <title>Detecting Semantically Similar Questions on Quora Dataset</title>
+      <link>https://mrinaald.github.io/project/nlp_similar_ques/</link>
+      <pubDate>Mon, 30 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://mrinaald.github.io/project/nlp_similar_ques/</guid>
+      <description>&lt;!-- &lt;h2 &gt;Location&lt;/h2&gt; --&gt;
+&lt;!-- This project was done as a industrial software internship at Hike Pvt. Ltd., New Delhi, during May ‘17 - Jul ‘17, the summer of my second year. --&gt;
+&lt;!-- This project was taken as part of the Robotics club at IIT Kanpur during my first two years at IIT Kanpur. --&gt;
+&lt;h2 &gt;Details&lt;/h2&gt;
+&lt;!-- This project was started as part of the course CS657: Information Retrieval, in the Spring ‘18 term at IIT Kanpur under Prof. Arnab Bhattacharya, Department of Computer Science and Engineering, IIT Kanpur. It was later continued beyond the course into my second undergraduate research project. --&gt;
+This project was done as part of the course CS671A: Introduction to Natural Language Processing, in the Spring ‘18 term at IIT Kanpur under Prof. Harish Karnick, Department of Computer Science and Engineering, IIT Kanpur.
+&lt;!-- This project was done as an undergraduate project, in the Spring ‘18 term at IIT Kanpur under Prof. Indranil Saha, Department of Computer Science and Engineering, IIT Kanpur. --&gt;
+ &lt;!-- &lt;ul&gt; --&gt;
+  &lt;!-- &lt;li&gt;Implemented various algorithms such as Line Following, Object Detection and Object Tracking using OpenCV C++.&lt;/li&gt; --&gt;
+&lt;!-- &lt;/ul&gt; --&gt;
+&lt;h2 &gt;Abstract&lt;/h2&gt;
+Websites like quora provide a platform for Question and Answering across various subjects and fields. However, the websites also contain loads of similar questions which have different sets of replies although they seek same answer. We aim to develop an application which can detect whether two questions on quora are semantically similar. More formally we want a model which when given two questions q1 and q2 , gives
+&lt;ul&gt;
+  &lt;li&gt;0 if question can’t be answered by the same answer&lt;/li&gt;
+  &lt;li&gt;1 if question can be answered by the same answer&lt;/li&gt;
+&lt;/ul&gt;
+depending on whether the questions are similar in terms of meaning or not. The criteria for two questions
+being semantically similar is that they seek same answer
+</description>
+    </item>
+    
+  </channel>
+</rss>
