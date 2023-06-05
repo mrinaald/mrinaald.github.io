@@ -5,7 +5,7 @@
     <link>https://mrinaald.github.io/tag/blockchain/</link>
       <atom:link href="https://mrinaald.github.io/tag/blockchain/index.xml" rel="self" type="application/rss+xml" />
     <description>Blockchain</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 30 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 30 Apr 2019 05:30:00 +0000</lastBuildDate>
     <image>
       <url>https://mrinaald.github.io/media/icon_hub96e8e9402b9c6d6f1cb54dd30395281_15734_512x512_fill_lanczos_center_3.png</url>
       <title>Blockchain</title>
@@ -14,26 +14,27 @@
     
     <item>
       <title>HealthCare DApp</title>
-      <link>https://mrinaald.github.io/project/healthcare_dapp/</link>
-      <pubDate>Tue, 30 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://mrinaald.github.io/project/healthcare_dapp/</guid>
-      <description>&lt;!-- &lt;h2&gt;Location&lt;/h2&gt; --&gt;
+      <link>https://mrinaald.github.io/project/healthcare-dapp/</link>
+      <pubDate>Tue, 30 Apr 2019 05:30:00 +0000</pubDate>
+      <guid>https://mrinaald.github.io/project/healthcare-dapp/</guid>
+      <description>&lt;!-- &lt;h2 &gt;Location&lt;/h2&gt; --&gt;
 &lt;!-- This project was done as a industrial software internship at Hike Pvt. Ltd., New Delhi, during May ‘17 - Jul ‘17, the summer of my second year. --&gt;
 &lt;!-- This project was taken as part of the Robotics club at IIT Kanpur during my first two years at IIT Kanpur. --&gt;
 &lt;h2&gt;Details&lt;/h2&gt;
 &lt;!-- This project was started as part of the course CS657: Information Retrieval, in the Spring ‘18 term at IIT Kanpur under Prof. Arnab Bhattacharya, Department of Computer Science and Engineering, IIT Kanpur. It was later continued beyond the course into my second undergraduate research project. --&gt;
-This project was done as part of the course CS731A: Blockchain Technology and Applications, in the Spring ‘19 term at IIT Kanpur under Prof. Sandeep Shukla, Department of Computer Science and Engineering, IIT Kanpur.
+&lt;p style=&#34;text-align: justify;&#34;&gt;This project was done as part of the course CS731A: Blockchain Technology and Applications, in the Spring ‘19 term at IIT Kanpur under Prof. Sandeep Shukla, Department of Computer Science and Engineering, IIT Kanpur.&lt;/p&gt;
 &lt;!-- This project was done as an undergraduate project, in the Spring ‘18 term at IIT Kanpur under Prof. Indranil Saha, Department of Computer Science and Engineering, IIT Kanpur. --&gt;
- &lt;!-- &lt;ul&gt; --&gt;
-  &lt;!-- &lt;li&gt;Implemented various algorithms such as Line Following, Object Detection and Object Tracking using OpenCV C++.&lt;/li&gt; --&gt;
-&lt;!-- &lt;/ul&gt; --&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;ul&gt;
+&lt;h2&gt;Brief summary of the work done in the project&lt;/h2&gt;
+&lt;ul style=&#34;text-align: justify;&#34;&gt;
   &lt;li&gt;Decentralized Application (DApp) implemented using Ethereum Blockchain platform to keep patients’ and doctors’ data at a health center.&lt;/li&gt;
   &lt;li&gt;Application allows a patient to maintain their medical data and reports securely using blockchain technology.&lt;/li&gt;
   &lt;li&gt;Patients were given full control over their data, and only they had the power to grant access of their data to any doctor.&lt;/li&gt;
   &lt;li&gt;Application also supported appointment bookings, where a patient can book an appointment with a doctor one-week in advance.&lt;/li&gt;
-&lt;/ul&gt;</description>
+&lt;/ul&gt;
+&lt;!-- &lt;h3&gt;Attributions:&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&#34;https://commons.wikimedia.org/wiki/File:Ada_horizon_green_logo_with_slogan.svg&#34;&gt;&#34;Ada programming language logo (2023)&#34;&lt;/a&gt; by &lt;a href=&#34;https://commons.wikimedia.org/wiki/User:Captain-Haddock17&#34;&gt;William J. Franck&lt;/a&gt; is licensed under &lt;a href=&#34;https://creativecommons.org/publicdomain/zero/1.0/deed.en&#34;&gt;CC0 1.0&lt;/a&gt; / Merged with other images&lt;/li&gt;
+&lt;/ul&gt; --&gt;</description>
     </item>
     
   </channel>

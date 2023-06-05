@@ -5,7 +5,7 @@
     <link>https://mrinaald.github.io/</link>
       <atom:link href="https://mrinaald.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Mrinaal Dogra</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 30 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mrinaald.github.io/media/icon_hub96e8e9402b9c6d6f1cb54dd30395281_15734_512x512_fill_lanczos_center_3.png</url>
       <title>Mrinaal Dogra</title>
@@ -13,203 +13,285 @@
     </image>
     
     <item>
+      <title>System and method for distributed learning of universal vector representations on edge devices</title>
+      <link>https://mrinaald.github.io/publication/universal-emb/</link>
+      <pubDate>Thu, 23 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://mrinaald.github.io/publication/universal-emb/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Memory Efficient Federated Recommendation Model</title>
+      <link>https://mrinaald.github.io/publication/mem-efficient-fl/</link>
+      <pubDate>Wed, 26 Jan 2022 05:30:00 +0000</pubDate>
+      <guid>https://mrinaald.github.io/publication/mem-efficient-fl/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
       <title>HealthCare DApp</title>
-      <link>https://mrinaald.github.io/project/healthcare_dapp/</link>
-      <pubDate>Tue, 30 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://mrinaald.github.io/project/healthcare_dapp/</guid>
-      <description>&lt;!-- &lt;h2&gt;Location&lt;/h2&gt; --&gt;
+      <link>https://mrinaald.github.io/project/healthcare-dapp/</link>
+      <pubDate>Tue, 30 Apr 2019 05:30:00 +0000</pubDate>
+      <guid>https://mrinaald.github.io/project/healthcare-dapp/</guid>
+      <description>&lt;!-- &lt;h2 &gt;Location&lt;/h2&gt; --&gt;
 &lt;!-- This project was done as a industrial software internship at Hike Pvt. Ltd., New Delhi, during May ‘17 - Jul ‘17, the summer of my second year. --&gt;
 &lt;!-- This project was taken as part of the Robotics club at IIT Kanpur during my first two years at IIT Kanpur. --&gt;
 &lt;h2&gt;Details&lt;/h2&gt;
 &lt;!-- This project was started as part of the course CS657: Information Retrieval, in the Spring ‘18 term at IIT Kanpur under Prof. Arnab Bhattacharya, Department of Computer Science and Engineering, IIT Kanpur. It was later continued beyond the course into my second undergraduate research project. --&gt;
-This project was done as part of the course CS731A: Blockchain Technology and Applications, in the Spring ‘19 term at IIT Kanpur under Prof. Sandeep Shukla, Department of Computer Science and Engineering, IIT Kanpur.
+&lt;p style=&#34;text-align: justify;&#34;&gt;This project was done as part of the course CS731A: Blockchain Technology and Applications, in the Spring ‘19 term at IIT Kanpur under Prof. Sandeep Shukla, Department of Computer Science and Engineering, IIT Kanpur.&lt;/p&gt;
 &lt;!-- This project was done as an undergraduate project, in the Spring ‘18 term at IIT Kanpur under Prof. Indranil Saha, Department of Computer Science and Engineering, IIT Kanpur. --&gt;
- &lt;!-- &lt;ul&gt; --&gt;
-  &lt;!-- &lt;li&gt;Implemented various algorithms such as Line Following, Object Detection and Object Tracking using OpenCV C++.&lt;/li&gt; --&gt;
-&lt;!-- &lt;/ul&gt; --&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;ul&gt;
+&lt;h2&gt;Brief summary of the work done in the project&lt;/h2&gt;
+&lt;ul style=&#34;text-align: justify;&#34;&gt;
   &lt;li&gt;Decentralized Application (DApp) implemented using Ethereum Blockchain platform to keep patients’ and doctors’ data at a health center.&lt;/li&gt;
   &lt;li&gt;Application allows a patient to maintain their medical data and reports securely using blockchain technology.&lt;/li&gt;
   &lt;li&gt;Patients were given full control over their data, and only they had the power to grant access of their data to any doctor.&lt;/li&gt;
   &lt;li&gt;Application also supported appointment bookings, where a patient can book an appointment with a doctor one-week in advance.&lt;/li&gt;
-&lt;/ul&gt;</description>
+&lt;/ul&gt;
+&lt;!-- &lt;h3&gt;Attributions:&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&#34;https://commons.wikimedia.org/wiki/File:Ada_horizon_green_logo_with_slogan.svg&#34;&gt;&#34;Ada programming language logo (2023)&#34;&lt;/a&gt; by &lt;a href=&#34;https://commons.wikimedia.org/wiki/User:Captain-Haddock17&#34;&gt;William J. Franck&lt;/a&gt; is licensed under &lt;a href=&#34;https://creativecommons.org/publicdomain/zero/1.0/deed.en&#34;&gt;CC0 1.0&lt;/a&gt; / Merged with other images&lt;/li&gt;
+&lt;/ul&gt; --&gt;</description>
     </item>
     
     <item>
       <title>Multi-user P2P Video Conferencing Web Application</title>
-      <link>https://mrinaald.github.io/project/p2p_videoconf/</link>
-      <pubDate>Fri, 30 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>https://mrinaald.github.io/project/p2p_videoconf/</guid>
-      <description>&lt;!-- &lt;h2&gt;Location&lt;/h2&gt; --&gt;
+      <link>https://mrinaald.github.io/project/p2p-videoconf/</link>
+      <pubDate>Fri, 30 Nov 2018 05:30:00 +0000</pubDate>
+      <guid>https://mrinaald.github.io/project/p2p-videoconf/</guid>
+      <description>&lt;!-- &lt;h2 &gt;Location&lt;/h2&gt; --&gt;
 &lt;!-- This project was done as a industrial software internship at Hike Pvt. Ltd., New Delhi, during May ‘17 - Jul ‘17, the summer of my second year. --&gt;
 &lt;!-- This project was taken as part of the Robotics club at IIT Kanpur during my first two years at IIT Kanpur. --&gt;
+&lt;div style=&#34;position: relative&#34;&gt;
+  &lt;!-- Div section taken from the featured image portion of the actual rendered HTML page --&gt;
+  &lt;img src=&#34;legend.png&#34; alt=&#34;&#34; class=&#34;featured-image&#34; width=&#34;720&#34; height=&#34;674&#34;&gt;
+  &lt;span class=&#34;article-header-caption&#34;&gt;Legend&lt;/span&gt;
+&lt;/div&gt;
+&lt;!-- &lt;img src=&#39;legend.png&#39; alt=&#39;legend&#39; /&gt; --&gt;
 &lt;h2&gt;Details&lt;/h2&gt;
 &lt;!-- This project was started as part of the course CS657: Information Retrieval, in the Spring ‘18 term at IIT Kanpur under Prof. Arnab Bhattacharya, Department of Computer Science and Engineering, IIT Kanpur. It was later continued beyond the course into my second undergraduate research project. --&gt;
-This project was done as part of the course CS425A: Computer Networks, in the Fall ‘18 term at IIT Kanpur under Prof. Dheeraj Sanghi, Department of Computer Science and Engineering, IIT Kanpur.
+&lt;p style=&#34;text-align: justify;&#34;&gt;This project was done as part of the course CS425A: Computer Networks, in the Fall ‘18 term at IIT Kanpur under Prof. Dheeraj Sanghi, Department of Computer Science and Engineering, IIT Kanpur.&lt;/p&gt;
 &lt;!-- This project was done as an undergraduate project, in the Spring ‘18 term at IIT Kanpur under Prof. Indranil Saha, Department of Computer Science and Engineering, IIT Kanpur. --&gt;
- &lt;!-- &lt;ul&gt; --&gt;
-  &lt;!-- &lt;li&gt;Implemented various algorithms such as Line Following, Object Detection and Object Tracking using OpenCV C++.&lt;/li&gt; --&gt;
-&lt;!-- &lt;/ul&gt; --&gt;
+&lt;!-- &lt;h2&gt;Brief summary of the work done in the project&lt;/h2&gt; --&gt;
 &lt;h2&gt;Objective&lt;/h2&gt;
-The aim of the project is to develop a video conferencing web application. This application should be capable of handling multi-stream video feeds for different users within the network.
+&lt;p style=&#34;text-align: justify;&#34;&gt;The project aims to develop a video conferencing web application. This application should be capable of handling multi-stream video feeds for different users within the network. The web application was hypothetically supposed to be deployed in the Faculty Building at IIT Kanpur which will allow faculty members to attend meetings online via the application.&lt;/p&gt;
 &lt;h2&gt;Features&lt;/h2&gt;
-&lt;ol&gt;
+&lt;ol style=&#34;text-align: justify;&#34;&gt;
   &lt;li&gt; &lt;b&gt;Peer-to-Peer Connection&lt;/b&gt;: We use peer-to-peer connection rather than server based relaying of video streams. The host server only sets up the connection between two or more clients. After the connection is setup, exchange of data among the peers does not involve the server.
   &lt;li&gt; &lt;b&gt;Platform Independent&lt;/b&gt;: The application doesn’t require the clients to install any software on their personal computer. They just need to login to the hosted website and the server handles setting up the connection and sharing communication protocols.
   &lt;li&gt; &lt;b&gt;Multiple Chatrooms&lt;/b&gt;: Every conference will be allotted a unique chat room id with which all the users can join the associated chatroom. Since there can be several conferences that might be hosted simultaneously in different rooms, the application allows initiating multiple chatrooms to run independent of the others.
-&lt;/ol&gt;</description>
+&lt;/ol&gt;
+&lt;!-- &lt;h3&gt;Attributions:&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&#34;https://commons.wikimedia.org/wiki/File:Ada_horizon_green_logo_with_slogan.svg&#34;&gt;&#34;Ada programming language logo (2023)&#34;&lt;/a&gt; by &lt;a href=&#34;https://commons.wikimedia.org/wiki/User:Captain-Haddock17&#34;&gt;William J. Franck&lt;/a&gt; is licensed under &lt;a href=&#34;https://creativecommons.org/publicdomain/zero/1.0/deed.en&#34;&gt;CC0 1.0&lt;/a&gt; / Merged with other images&lt;/li&gt;
+&lt;/ul&gt; --&gt;</description>
     </item>
     
     <item>
       <title>One-Shot Learning</title>
-      <link>https://mrinaald.github.io/project/one_shot/</link>
-      <pubDate>Fri, 30 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>https://mrinaald.github.io/project/one_shot/</guid>
+      <link>https://mrinaald.github.io/project/one-shot/</link>
+      <pubDate>Fri, 30 Nov 2018 05:30:00 +0000</pubDate>
+      <guid>https://mrinaald.github.io/project/one-shot/</guid>
       <description>&lt;!-- &lt;h2 &gt;Location&lt;/h2&gt; --&gt;
 &lt;!-- This project was done as a industrial software internship at Hike Pvt. Ltd., New Delhi, during May ‘17 - Jul ‘17, the summer of my second year. --&gt;
 &lt;!-- This project was taken as part of the Robotics club at IIT Kanpur during my first two years at IIT Kanpur. --&gt;
 &lt;h2 &gt;Details&lt;/h2&gt;
 &lt;!-- This project was started as part of the course CS657: Information Retrieval, in the Spring ‘18 term at IIT Kanpur under Prof. Arnab Bhattacharya, Department of Computer Science and Engineering, IIT Kanpur. It was later continued beyond the course into my second undergraduate research project. --&gt;
-This project was done as part of the course CS685A: Data Mining, in the Fall ‘18 term at IIT Kanpur under Prof. Arnab Bhattacharya, Department of Computer Science and Engineering, IIT Kanpur.
-&lt;!-- This project was done as an undergraduate project, in the Spring ‘18 term at IIT Kanpur under Prof. Indranil Saha, Department of Computer Science and Engineering, IIT Kanpur. --&gt;
- &lt;!-- &lt;ul&gt; --&gt;
-  &lt;!-- &lt;li&gt;Implemented various algorithms such as Line Following, Object Detection and Object Tracking using OpenCV C++.&lt;/li&gt; --&gt;
-&lt;!-- &lt;/ul&gt; --&gt;
-&lt;h2 &gt;Abstract&lt;/h2&gt;
-The process of learning good features for machine learning applications can be very computationally expensive and may prove difficult in cases where little data is available. A prototypical example of this is the one-shot learning setting, in which we must correctly make predictions given only a single example of each new class. In this paper, we firstly explore Siamese Networks, a unique twin-network setting which is capable of checking how similar any two inputs are. The observed shortcomings of the model inspire us to explore a more robust model, Matching Networks, a neural network which uses recent advances in attention and memory that enable rapid learning. We then extend the models to the MNIST and ImageNet datasets in addition to the standard Omniglot dataset they are trained on to check their robustness and achieve promising results</description>
+&lt;p style=&#34;text-align: justify;&#34;&gt;This project was done as part of the course CS685A: Data Mining, in the Fall ‘18 term at IIT Kanpur under Prof. Arnab Bhattacharya, Department of Computer Science and Engineering, IIT Kanpur.&lt;/p&gt;
+&lt;h2&gt;Brief summary of the work done in the project&lt;/h2&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;The process of learning good features for machine learning applications can be very computationally expensive and may prove difficult in cases where little data is available. A prototypical example of this is the one-shot learning setting, in which we must correctly make predictions given only a single example of each new class. In this paper, we firstly explore Siamese Networks, a unique twin-network setting which is capable of checking how similar any two inputs are. The observed shortcomings of the model inspire us to explore a more robust model, Matching Networks, a neural network which uses recent advances in attention and memory that enable rapid learning. We then extend the models to the MNIST and ImageNet datasets in addition to the standard Omniglot dataset they are trained on to check their robustness and achieve promising results.&lt;/p&gt;
+&lt;!-- &lt;h3&gt;Attributions:&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&#34;https://commons.wikimedia.org/wiki/File:Ada_horizon_green_logo_with_slogan.svg&#34;&gt;&#34;Ada programming language logo (2023)&#34;&lt;/a&gt; by &lt;a href=&#34;https://commons.wikimedia.org/wiki/User:Captain-Haddock17&#34;&gt;William J. Franck&lt;/a&gt; is licensed under &lt;a href=&#34;https://creativecommons.org/publicdomain/zero/1.0/deed.en&#34;&gt;CC0 1.0&lt;/a&gt; / Merged with other images&lt;/li&gt;
+&lt;/ul&gt; --&gt;</description>
     </item>
     
     <item>
       <title>Ada to MIPS Compiler</title>
-      <link>https://mrinaald.github.io/project/ada_to_mips/</link>
-      <pubDate>Mon, 30 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>https://mrinaald.github.io/project/ada_to_mips/</guid>
+      <link>https://mrinaald.github.io/project/ada-to-mips/</link>
+      <pubDate>Mon, 30 Apr 2018 05:30:00 +0000</pubDate>
+      <guid>https://mrinaald.github.io/project/ada-to-mips/</guid>
       <description>&lt;!-- &lt;h2 &gt;Location&lt;/h2&gt; --&gt;
 &lt;!-- This project was done as a industrial software internship at Hike Pvt. Ltd., New Delhi, during May ‘17 - Jul ‘17, the summer of my second year. --&gt;
 &lt;!-- This project was taken as part of the Robotics club at IIT Kanpur during my first two years at IIT Kanpur. --&gt;
-&lt;h2 &gt;Details&lt;/h2&gt;
+&lt;h2&gt;Details&lt;/h2&gt;
 &lt;!-- This project was started as part of the course CS657: Information Retrieval, in the Spring ‘18 term at IIT Kanpur under Prof. Arnab Bhattacharya, Department of Computer Science and Engineering, IIT Kanpur. It was later continued beyond the course into my second undergraduate research project. --&gt;
-This project was done as part of the course CS335A: Compiler Design, in the Spring ‘18 term at IIT Kanpur under Prof. Subhajit Roy, Department of Computer Science and Engineering, IIT Kanpur.
+&lt;p style=&#34;text-align: justify;&#34;&gt;This project was done as part of the course &lt;b&gt;CS335A: Compiler Design&lt;/b&gt;, in the Spring ‘18 term at IIT Kanpur under Prof. Subhajit Roy, Department of Computer Science and Engineering, IIT Kanpur.&lt;/p&gt;
 &lt;!-- This project was done as an undergraduate project, in the Spring ‘18 term at IIT Kanpur under Prof. Indranil Saha, Department of Computer Science and Engineering, IIT Kanpur. --&gt;
 &lt;!-- &lt;ul&gt; --&gt;
   &lt;!-- &lt;li&gt;Implemented various algorithms such as Line Following, Object Detection and Object Tracking using OpenCV C++.&lt;/li&gt; --&gt;
 &lt;!-- &lt;/ul&gt; --&gt;
-&lt;h2 &gt;Abstract&lt;/h2&gt;
-&lt;ul&gt;
+&lt;h2&gt;Brief summary of the work done in the project&lt;/h2&gt;
+&lt;ul style=&#34;text-align: justify;&#34;&gt;
   &lt;li&gt;Implemented an Ada to MIPS compiler using C++ as the source language of the compiler.&lt;/li&gt;
-  &lt;li&gt;Implemented language features include Basic Arithematic operations, Range Operator, Constant Variables, Fixed size Arrays with upto two dimension support, If-Else and If-ElseIf-Else conditionals, Switch cases, Simple for, while, and do-while loops, Procedures(Functions) and Recursions, Packages(Classes) supporting any number of data members as well as objects of other packages, and Package level Methods.&lt;/li&gt;
+  &lt;li&gt;Implemented language features such as Basic Arithematic operations, Range Operator, Constant Variables, Fixed size Arrays with upto two dimension support, If-Else and If-ElseIf-Else conditionals, Switch cases, Simple for, while, and do-while loops, Procedures(Functions) and Recursions, Packages(Classes) supporting any number of data members as well as objects of other packages, and Package level Methods.&lt;/li&gt;
   &lt;li&gt;Basic Integer and Character data types were supported for all implemented features.&lt;/li&gt;
 &lt;/ul&gt;
-</description>
+&lt;h3&gt;Attributions:&lt;/h3&gt;
+&lt;ul style=&#34;text-align: justify;&#34;&gt;
+  &lt;li&gt;&lt;a href=&#34;https://commons.wikimedia.org/wiki/File:Ada_horizon_green_logo_with_slogan.svg&#34;&gt;&#34;Ada programming language logo (2023)&#34;&lt;/a&gt; by &lt;a href=&#34;https://commons.wikimedia.org/wiki/User:Captain-Haddock17&#34;&gt;William J. Franck&lt;/a&gt; is licensed under &lt;a href=&#34;https://creativecommons.org/publicdomain/zero/1.0/deed.en&#34;&gt;CC0 1.0&lt;/a&gt; / Merged with other images.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/C%2B%2B#/media/File:ISO_C++_Logo.svg&#34;&gt;&#34;C++ logo (2023)&#34;&lt;/a&gt; by &lt;a href=&#34;https://github.com/jwkratz&#34;&gt;Jeremy Kratz&lt;/a&gt; is licensed under &lt;a href=&#34;https://commons.wikimedia.org/wiki/File:ISO_C%2B%2B_Logo.svg&#34;&gt;Public Domain&amp;trade;&lt;/a&gt; / Merged with other images.&lt;/li&gt;
+  &lt;li&gt;Created the diagram using &lt;a href=&#34;https://app.diagrams.net&#34;&gt;draw.io&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     
     <item>
       <title>Detecting Semantically Similar Questions on Quora Dataset</title>
-      <link>https://mrinaald.github.io/project/nlp_similar_ques/</link>
-      <pubDate>Mon, 30 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>https://mrinaald.github.io/project/nlp_similar_ques/</guid>
+      <link>https://mrinaald.github.io/project/nlp-similar-ques/</link>
+      <pubDate>Mon, 30 Apr 2018 05:30:00 +0000</pubDate>
+      <guid>https://mrinaald.github.io/project/nlp-similar-ques/</guid>
       <description>&lt;!-- &lt;h2 &gt;Location&lt;/h2&gt; --&gt;
 &lt;!-- This project was done as a industrial software internship at Hike Pvt. Ltd., New Delhi, during May ‘17 - Jul ‘17, the summer of my second year. --&gt;
 &lt;!-- This project was taken as part of the Robotics club at IIT Kanpur during my first two years at IIT Kanpur. --&gt;
-&lt;h2 &gt;Details&lt;/h2&gt;
+&lt;h2&gt;Details&lt;/h2&gt;
 &lt;!-- This project was started as part of the course CS657: Information Retrieval, in the Spring ‘18 term at IIT Kanpur under Prof. Arnab Bhattacharya, Department of Computer Science and Engineering, IIT Kanpur. It was later continued beyond the course into my second undergraduate research project. --&gt;
-This project was done as part of the course CS671A: Introduction to Natural Language Processing, in the Spring ‘18 term at IIT Kanpur under Prof. Harish Karnick, Department of Computer Science and Engineering, IIT Kanpur.
+&lt;p style=&#34;text-align: justify;&#34;&gt;This project was done as part of the course CS671A: Introduction to Natural Language Processing, in the Spring ‘18 term at IIT Kanpur under Prof. Harish Karnick, Department of Computer Science and Engineering, IIT Kanpur.&lt;/p&gt;
 &lt;!-- This project was done as an undergraduate project, in the Spring ‘18 term at IIT Kanpur under Prof. Indranil Saha, Department of Computer Science and Engineering, IIT Kanpur. --&gt;
- &lt;!-- &lt;ul&gt; --&gt;
-  &lt;!-- &lt;li&gt;Implemented various algorithms such as Line Following, Object Detection and Object Tracking using OpenCV C++.&lt;/li&gt; --&gt;
-&lt;!-- &lt;/ul&gt; --&gt;
-&lt;h2 &gt;Abstract&lt;/h2&gt;
-Websites like quora provide a platform for Question and Answering across various subjects and fields. However, the websites also contain loads of similar questions which have different sets of replies although they seek same answer. We aim to develop an application which can detect whether two questions on quora are semantically similar. More formally we want a model which when given two questions q1 and q2 , gives
+&lt;h2&gt;Brief summary of the work done in the project&lt;/h2&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;Websites like quora provide a platform for Question and Answering across various subjects and fields. However, the websites also contain loads of similar questions which have different sets of replies although they seek same answer. We aim to develop an application which can detect whether two questions on quora are semantically similar. More formally we want a model which when given two questions, gives&lt;/p&gt;
 &lt;ul&gt;
-  &lt;li&gt;0 if question can’t be answered by the same answer&lt;/li&gt;
-  &lt;li&gt;1 if question can be answered by the same answer&lt;/li&gt;
+  &lt;li&gt;0 if both questions cannot be answered by the same answer&lt;/li&gt;
+  &lt;li&gt;1 if both question can be answered by the same answer&lt;/li&gt;
 &lt;/ul&gt;
-depending on whether the questions are similar in terms of meaning or not. The criteria for two questions
-being semantically similar is that they seek same answer
-</description>
+&lt;p style=&#34;text-align: justify;&#34;&gt;depending on whether the questions are similar in terms of meaning or not. The criteria for two questions being semantically similar is that they seek same answer.&lt;/p&gt;
+&lt;!-- &lt;h3&gt;Attributions:&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&#34;https://commons.wikimedia.org/wiki/File:Ada_horizon_green_logo_with_slogan.svg&#34;&gt;&#34;Ada programming language logo (2023)&#34;&lt;/a&gt; by &lt;a href=&#34;https://commons.wikimedia.org/wiki/User:Captain-Haddock17&#34;&gt;William J. Franck&lt;/a&gt; is licensed under &lt;a href=&#34;https://creativecommons.org/publicdomain/zero/1.0/deed.en&#34;&gt;CC0 1.0&lt;/a&gt; / Merged with other images&lt;/li&gt;
+&lt;/ul&gt; --&gt;</description>
     </item>
     
     <item>
       <title>Neural Network Based Modelling and Control of Quadrotor</title>
-      <link>https://mrinaald.github.io/project/nn_quadrotor/</link>
-      <pubDate>Mon, 30 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>https://mrinaald.github.io/project/nn_quadrotor/</guid>
+      <link>https://mrinaald.github.io/project/nn-quadrotor/</link>
+      <pubDate>Mon, 30 Apr 2018 05:30:00 +0000</pubDate>
+      <guid>https://mrinaald.github.io/project/nn-quadrotor/</guid>
       <description>&lt;!-- &lt;h2 &gt;Location&lt;/h2&gt; --&gt;
 &lt;!-- This project was done as a industrial software internship at Hike Pvt. Ltd., New Delhi, during May ‘17 - Jul ‘17, the summer of my second year. --&gt;
 &lt;!-- This project was taken as part of the Robotics club at IIT Kanpur during my first two years at IIT Kanpur. --&gt;
 &lt;h2 &gt;Details&lt;/h2&gt;
 &lt;!-- This project was started as part of the course CS657: Information Retrieval, in the Spring ‘18 term at IIT Kanpur under Prof. Arnab Bhattacharya, Department of Computer Science and Engineering, IIT Kanpur. It was later continued beyond the course into my second undergraduate research project. --&gt;
 &lt;!-- This project was done as part of the course CS771: Machine Learning Techniques, in the Fall ‘17 term at IIT Kanpur under Prof. Purushottam Kar, Department of Computer Science and Engineering, IIT Kanpur. --&gt;
-This project was done as an undergraduate project, in the Spring ‘18 term at IIT Kanpur under Prof. Indranil Saha, Department of Computer Science and Engineering, IIT Kanpur.
- &lt;!-- &lt;ul&gt; --&gt;
-  &lt;!-- &lt;li&gt;Implemented various algorithms such as Line Following, Object Detection and Object Tracking using OpenCV C++.&lt;/li&gt; --&gt;
-&lt;!-- &lt;/ul&gt; --&gt;
-&lt;h2 &gt;Abstract&lt;/h2&gt;
-The physics-based models of the quadrotors are being used for a long time to synthesize their controllers. All such controllers work with the linearized model of quadrotor, thus becoming prone to errors in adverse situations because, in reality, the quadrotor models are non-linear.
-&lt;br&gt;&lt;br&gt;
-Recent advancements in deep learning techniques have shown that these tech- niques are very efficient in learning non-linear functions. This motivates us to use them for learning the model of a quadrotor. This project aims at using neural network techniques to learn the model of the quadrotor and to use them for syn- thesizing a controller for it.
-</description>
+&lt;p style=&#34;text-align: justify;&#34;&gt;This project was done as an undergraduate project, in the Spring ‘18 term at IIT Kanpur under Prof. Indranil Saha, Department of Computer Science and Engineering, IIT Kanpur.&lt;/p&gt;
+&lt;br&gt;
+&lt;h2&gt;Brief summary of the work done in the project&lt;/h2&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;The physics-based models of the quadrotors are being used for a long time to synthesize their controllers. All such controllers work with the linearized model of quadrotor, thus becoming prone to errors in adverse situations because, in reality, the quadrotor models are non-linear.&lt;/p&gt;
+&lt;br&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;Recent advancements in deep learning techniques have shown that these tech- niques are very efficient in learning non-linear functions. This motivates us to use them for learning the model of a quadrotor. This project aims at using neural network techniques to learn the model of the quadrotor and to use them for syn- thesizing a controller for it.&lt;/p&gt;
+&lt;h3&gt;Attributions:&lt;/h3&gt;
+&lt;ul style=&#34;text-align: justify;&#34;&gt;
+  &lt;!-- &lt;li&gt;&lt;a href=&#34;https://commons.wikimedia.org/wiki/File:Ada_horizon_green_logo_with_slogan.svg&#34;&gt;&#34;Ada programming language logo (2023)&#34;&lt;/a&gt; by &lt;a href=&#34;https://commons.wikimedia.org/wiki/User:Captain-Haddock17&#34;&gt;William J. Franck&lt;/a&gt; is licensed under &lt;a href=&#34;https://creativecommons.org/publicdomain/zero/1.0/deed.en&#34;&gt;CC0 1.0&lt;/a&gt; / Merged with other images&lt;/li&gt; --&gt;
+  &lt;li&gt;Image source: &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0019057817305621&#34;&gt;Analysis and design of second-order sliding-mode algorithms for quadrotor roll and pitch estimation&lt;/a&gt; by &lt;i&gt;Chang et al.&lt;/i&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     
     <item>
       <title>Real-time Sentiment Analysis of Video Feed</title>
-      <link>https://mrinaald.github.io/project/ml_sentiment/</link>
-      <pubDate>Thu, 30 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>https://mrinaald.github.io/project/ml_sentiment/</guid>
+      <link>https://mrinaald.github.io/project/ml-sentiment/</link>
+      <pubDate>Thu, 30 Nov 2017 05:30:00 +0000</pubDate>
+      <guid>https://mrinaald.github.io/project/ml-sentiment/</guid>
       <description>&lt;!-- &lt;h2 &gt;Location&lt;/h2&gt; --&gt;
 &lt;!-- This project was done as a industrial software internship at Hike Pvt. Ltd., New Delhi, during May ‘17 - Jul ‘17, the summer of my second year. --&gt;
 &lt;!-- This project was taken as part of the Robotics club at IIT Kanpur during my first two years at IIT Kanpur. --&gt;
 &lt;h2 &gt;Details&lt;/h2&gt;
 &lt;!-- This project was started as part of the course CS657: Information Retrieval, in the Spring ‘18 term at IIT Kanpur under Prof. Arnab Bhattacharya, Department of Computer Science and Engineering, IIT Kanpur. It was later continued beyond the course into my second undergraduate research project. --&gt;
-This project was done as part of the course CS771A: Introduction to Machine Learning, in the Fall ‘17 term at IIT Kanpur under Prof. Purushottam Kar, Department of Computer Science and Engineering, IIT Kanpur.
+&lt;p style=&#34;text-align: justify;&#34;&gt;This project was done as part of the course CS771A: Introduction to Machine Learning, in the Fall ‘17 term at IIT Kanpur under Prof. Purushottam Kar, Department of Computer Science and Engineering, IIT Kanpur.&lt;/p&gt;
 &lt;!-- This project was done as an undergraduate project, in the Fall ‘17 term at IIT Kanpur under Prof. Purushottam Kar, Department of Computer Science and Engineering, IIT Kanpur. --&gt;
- &lt;!-- &lt;ul&gt; --&gt;
-  &lt;!-- &lt;li&gt;Implemented various algorithms such as Line Following, Object Detection and Object Tracking using OpenCV C++.&lt;/li&gt; --&gt;
-&lt;!-- &lt;/ul&gt; --&gt;
-&lt;h2 &gt;Abstract&lt;/h2&gt;
-The project aimed at developing a user-end application to get time-mapped viewer sentiment while watching a video. The input will be the real time viewer’s webcam feed while watching the video and the output will be an emotion specified at regular time intervals throughout the video. The following set of six emotions were considered in the application: {Neutral, Happy, Sad, Angry, Surprised, Fearful}
-</description>
+&lt;br&gt;
+&lt;h2&gt;Brief summary of the work done in the project&lt;/h2&gt;
+&lt;ul style=&#34;text-align: justify;&#34;&gt;
+  &lt;li&gt; The project aimed at developing a user application to get time-mapped viewer sentiment while watching a video.&lt;/li&gt;
+  &lt;li&gt; The application input was the viewer’s webcam feed in real-time while watching the video and the output contained the emotion specified at regular time intervals throughout the duration of the video being watched.&lt;/li&gt;
+  &lt;li&gt; The following set of six emotions were considered in the application: {Neutral, Happy, Sad, Angry, Surprised, Fearful}&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Attributions:&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Created the diagram using &lt;a href=&#34;https://app.diagrams.net&#34;&gt;draw.io&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     
     <item>
       <title>Humanoid Robotics Project</title>
       <link>https://mrinaald.github.io/project/humanoid/</link>
-      <pubDate>Sun, 30 Apr 2017 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 30 Apr 2017 05:30:00 +0000</pubDate>
       <guid>https://mrinaald.github.io/project/humanoid/</guid>
       <description>&lt;h2 &gt;Location&lt;/h2&gt;
 &lt;!-- This project was done as a industrial software internship at Hike Pvt. Ltd., New Delhi, during May ‘17 - Jul ‘17, the summer of my second year. --&gt;
-This project was taken as part of the Robotics club at IIT Kanpur during my first two years at IIT Kanpur.
-&lt;h2 &gt;Details&lt;/h2&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;This project was taken as part of the Robotics club at IIT Kanpur during my first two years at IIT Kanpur.&lt;/p&gt;
+&lt;br&gt;
+&lt;!-- &lt;h2&gt;Details&lt;/h2&gt; --&gt;
 &lt;!-- This project was started as part of the course CS657: Information Retrieval, in the Spring ‘18 term at IIT Kanpur under Prof. Arnab Bhattacharya, Department of Computer Science and Engineering, IIT Kanpur. It was later continued beyond the course into my second undergraduate research project. --&gt;
-&lt;!-- This project was done as part of the course CS771: Machine Learning Techniques, in the Fall ‘17 term at IIT Kanpur under Prof. Purushottam Kar, Department of Computer Science and Engineering, IIT Kanpur. --&gt;
- &lt;ul&gt;
+&lt;!-- This project was done as part of the course CS731A: Blockchain Technology and Applications, in the Spring ‘19 term at IIT Kanpur under Prof. Sandeep Shukla, Department of Computer Science and Engineering, IIT Kanpur. --&gt;
+&lt;!-- This project was done as an undergraduate project, in the Spring ‘18 term at IIT Kanpur under Prof. Indranil Saha, Department of Computer Science and Engineering, IIT Kanpur. --&gt;
+&lt;h2&gt;Brief summary of the work done in the project&lt;/h2&gt;
+&lt;ul style=&#34;text-align: justify;&#34;&gt;
   &lt;li&gt;Implemented various algorithms such as Line Following, Object Detection and Object Tracking using OpenCV C++.&lt;/li&gt;
   &lt;li&gt;Implemented the Speech Recognition, Chat-bot and the Integration System modules for the project HURO in the SnT Summer Camp 2016.&lt;/li&gt;
   &lt;li&gt;Actively worked with team on Computer Vision problem statements required for participation in the competition HuroCup Fira, a robotic game
 and robotics benchmark problem for humanoid robots.&lt;/li&gt;
   &lt;li&gt;Implemented Histogram Backprojection algorithm using OpenCV for improving object detection in a camera feed.&lt;/li&gt;
 &lt;/ul&gt;
-</description>
+&lt;!-- &lt;h3&gt;Attributions:&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&#34;https://commons.wikimedia.org/wiki/File:Ada_horizon_green_logo_with_slogan.svg&#34;&gt;&#34;Ada programming language logo (2023)&#34;&lt;/a&gt; by &lt;a href=&#34;https://commons.wikimedia.org/wiki/User:Captain-Haddock17&#34;&gt;William J. Franck&lt;/a&gt; is licensed under &lt;a href=&#34;https://creativecommons.org/publicdomain/zero/1.0/deed.en&#34;&gt;CC0 1.0&lt;/a&gt; / Merged with other images&lt;/li&gt;
+&lt;/ul&gt; --&gt;</description>
     </item>
     
     <item>
       <title>N-Body Simulation in CUDA</title>
-      <link>https://mrinaald.github.io/project/n_body_sim/</link>
-      <pubDate>Sat, 30 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://mrinaald.github.io/project/n_body_sim/</guid>
-      <description>&lt;h2 &gt;Location&lt;/h2&gt;
+      <link>https://mrinaald.github.io/project/n-body-sim/</link>
+      <pubDate>Sat, 30 Apr 2016 05:30:00 +0000</pubDate>
+      <guid>https://mrinaald.github.io/project/n-body-sim/</guid>
+      <description>&lt;h2&gt; Location &lt;/h2&gt;
 &lt;!-- This project was done as a industrial software internship at Hike Pvt. Ltd., New Delhi, during May ‘17 - Jul ‘17, the summer of my second year. --&gt;
-This project was taken as part of the Association of Computer Activities (ACA) group at IIT Kanpur during my second semester at IIT Kanpur.
-&lt;h2 &gt;Details&lt;/h2&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;This project was taken as part of the Association of Computer Activities (ACA) group at IIT Kanpur during my second semester at IIT Kanpur.&lt;/p&gt;
+&lt;br&gt;
+&lt;!-- &lt;h2&gt;Details&lt;/h2&gt; --&gt;
 &lt;!-- This project was started as part of the course CS657: Information Retrieval, in the Spring ‘18 term at IIT Kanpur under Prof. Arnab Bhattacharya, Department of Computer Science and Engineering, IIT Kanpur. It was later continued beyond the course into my second undergraduate research project. --&gt;
-&lt;!-- This project was done as part of the course CS771: Machine Learning Techniques, in the Fall ‘17 term at IIT Kanpur under Prof. Purushottam Kar, Department of Computer Science and Engineering, IIT Kanpur. --&gt;
+&lt;!-- This project was done as part of the course CS731A: Blockchain Technology and Applications, in the Spring ‘19 term at IIT Kanpur under Prof. Sandeep Shukla, Department of Computer Science and Engineering, IIT Kanpur. --&gt;
 &lt;!-- This project was done as an undergraduate project, in the Spring ‘18 term at IIT Kanpur under Prof. Indranil Saha, Department of Computer Science and Engineering, IIT Kanpur. --&gt;
-&lt;ul&gt;
+&lt;h2&gt;Brief summary of the work done in the project&lt;/h2&gt;
+&lt;ul style=&#34;text-align: justify;&#34;&gt;
   &lt;li&gt;A simulation of dynamical system of a large number of particles, moving under the influence of gravity.&lt;/li&gt;
   &lt;li&gt;Used the CUDA API along with C++ for parallel implementation of the simulation on a Nvidia GPU.&lt;/li&gt;
   &lt;li&gt;Implemented the visual realization of the simulation using the OpenCV library in C++.&lt;/li&gt;
-&lt;/ul&gt;</description>
+&lt;/ul&gt;
+&lt;!-- &lt;h3&gt;Attributions:&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&#34;https://commons.wikimedia.org/wiki/File:Ada_horizon_green_logo_with_slogan.svg&#34;&gt;&#34;Ada programming language logo (2023)&#34;&lt;/a&gt; by &lt;a href=&#34;https://commons.wikimedia.org/wiki/User:Captain-Haddock17&#34;&gt;William J. Franck&lt;/a&gt; is licensed under &lt;a href=&#34;https://creativecommons.org/publicdomain/zero/1.0/deed.en&#34;&gt;CC0 1.0&lt;/a&gt; / Merged with other images&lt;/li&gt;
+&lt;/ul&gt; --&gt;</description>
     </item>
     
     <item>
